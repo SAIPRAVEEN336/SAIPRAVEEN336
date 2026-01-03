@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sai Praveen</h1>
 <h3 align="center">B.Tech CSE | Backend & Data Engineering | Python • Node.js • MongoDB • Airflow • AWS/GCP</h3>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-4de65b07-0d43-4b83-8b58-1b1b4b3f3f33.gif" width="700"/>
-
+ <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.git">
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=saipraveen336&label=Profile%20views&color=0e75b6&style=flat" alt="saipraveen336" />
 </p>
