@@ -98,7 +98,7 @@
 <h3>Featured projects</h3>
 
 - 🚀 Automated ETL Data Pipeline  
-  <a href="https://github.com/SAIPRAVEEN336/automated-etl-pipeline">github.com/SAIPRAVEEN336/automated-etl-pipeline</a>
+  <a href="https://github.com/SAIPRAVEEN336/Analysis-of-Walmart-Sales">https://github.com/SAIPRAVEEN336/Analysis-of-Walmart-Sales</a>
 
 - 📡 IoT Data Ingestion & Analytics  
   <a href="https://github.com/SAIPRAVEEN336/iot-data-ingestion">github.com/SAIPRAVEEN336/iot-data-ingestion</a>
