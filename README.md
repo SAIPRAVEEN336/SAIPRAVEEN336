@@ -97,7 +97,7 @@
 
 <h3>Featured projects</h3>
 
-- 🚀 Automated ETL Data Pipeline  
+- 🚀 Walmart Data Analysis: SQL + Python Project P-1 
   <a href="https://github.com/SAIPRAVEEN336/Analysis-of-Walmart-Sales">https://github.com/SAIPRAVEEN336/Analysis-of-Walmart-Sales</a>
 
 - 📡 IoT Data Ingestion & Analytics  
