@@ -101,7 +101,7 @@
   <a href="https://github.com/SAIPRAVEEN336/Analysis-of-Walmart-Sales">https://github.com/SAIPRAVEEN336/Analysis-of-Walmart-Sales</a>
 
 -  E-Commerce Project – ForeverBuy
--  Live Demo:href="https://foreverbuy.in/">
+-  Live Demo:href=https://foreverbuy.in/
 - Source Code: https://github.com/SAIPRAVEEN336
   
 - 🎯 AI-powered Recommendation System  
