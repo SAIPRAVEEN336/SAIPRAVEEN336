@@ -100,9 +100,10 @@
 - 🚀 Walmart Data Analysis: SQL + Python Project P-1 
   <a href="https://github.com/SAIPRAVEEN336/Analysis-of-Walmart-Sales">https://github.com/SAIPRAVEEN336/Analysis-of-Walmart-Sales</a>
 
-- 📡 IoT Data Ingestion & Analytics  
-  <a href="https://github.com/SAIPRAVEEN336/iot-data-ingestion">github.com/SAIPRAVEEN336/iot-data-ingestion</a>
-
+-  E-Commerce Project – ForeverBuy
+-  Live Demo:href="https://github.com/SAIPRAVEEN336/https://foreverbuy.in/">
+- Source Code: https://github.com/SAIPRAVEEN336
+  
 - 🎯 AI-powered Recommendation System  
   <a href="https://github.com/SAIPRAVEEN336/ai-recommendation-system">github.com/SAIPRAVEEN336/ai-recommendation-system</a>
 
